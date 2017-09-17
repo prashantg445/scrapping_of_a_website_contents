@@ -1,4 +1,4 @@
 # scrapping_of_a_website_contents
-using beatiful soup
+using beautiful soup
 
 link to the website : [datatau](https://www.datatau.com/)
